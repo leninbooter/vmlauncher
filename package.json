@@ -1,0 +1,9 @@
+{
+  "name": "vm_launcher",
+  "title": "VM launcher",
+  "id": "jid1-pE0cxkenZTLS6A",
+  "description": "Connect VMs directly from FireFox",
+  "author": "Alvin Lenin",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}
