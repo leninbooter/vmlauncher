@@ -1,0 +1,14 @@
+{
+
+  "manifest_version": 2,
+  
+  "name": "VM Launcher",
+  "description": "Connect VMs directly from FireFox",
+  "version": "1.0",
+  
+  "permissions": ["contextMenus","tabs"],
+  
+  "background": {
+    "scripts": ["vmlauncher.js"]
+  }
+}
